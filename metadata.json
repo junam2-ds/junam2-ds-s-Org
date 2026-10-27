@@ -1,0 +1,6 @@
+{
+  "name": "강화군 고령화와 확률분포 - AI 융합 수학 탐구 튜터",
+  "description": "고등학교 2학년 확률과 통계 '우리 지역(강화군)의 고령화, 확률분포로 읽고 미래를 예측하라' 프로젝트를 위한 AI 융합 수학 탐구 튜터 및 3중 검증 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
